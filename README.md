@@ -23,7 +23,7 @@ I'm currently focused on:
 ### Highlighted Projects
 
 - **[Chaos Middleware](https://github.com/gauravnetes/chaos-middleware)**: An npm package to help frontend developers test edge cases by simulating network latency and server errors.
-- **[Alzheimer's Detection System](https://github.com/gauravnetes/Alzheimer-s-Detection-System)**: A deep learning model using PyTorch and ResNet50 to classify the severity of Alzheimer's from MRI scans with over 99% accuracy.
+- **[Alzheimer's Detection System](https://github.com/gauravnetes/alzheimer_detection)**: A deep learning model using PyTorch and ResNet50 to classify the severity of Alzheimer's from MRI scans with over 99% accuracy.
 - **[TimeSync](https://github.com/gauravnetes/TimeSync)**: A full-stack scheduling application with Google Calendar and G-Meet integration.
 
 ---
